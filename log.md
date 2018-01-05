@@ -8,6 +8,7 @@ The image above lists some of the resources and languages that have led me to th
 **! Let's see where this goes !**
 
 **Follow me on Twitter** [@biologydave](insertLinkToTweet)
+
 **See some of my repos** [here](insertLinkHere)
 
 # 100 Days Of Code - Log
