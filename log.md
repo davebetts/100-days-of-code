@@ -1,4 +1,4 @@
-<h2 align=”center”>
+<h2 align="center">
 100 Days of Code with Dave Betts
 </h2>
 <img src="https://github.com/davebetts/100-days-of-code/blob/master/100Hours.jpg" alt="">
