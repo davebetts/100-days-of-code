@@ -6,6 +6,15 @@ It's time to take up the challenge!  The quest is to convert my regular creation
 
 The image above lists some of the resources and languages that have led me to this point.  Yes, this challenge is a beginning.  I will use the next 100 days to establish a foundation of knowledge and habits that will enahance my own work, and expand what I am able to offer to others.
 
+<h4 align="center">
+Initial Goals and Expectations
+</h4>
+I will work on two primary projects during my 100 Days of Code:
+1. freecodecamp's Front End Development Certification
+2. Cataloging and revising previous scripts (.R, .py) from my own research
+
+Other existing coding projects may be included depending on what progress I can make over the next 100 days.
+
 **! Let's see where this goes !**
 
 **Follow me on Twitter** [@biologydave](insertLinkToTweet)
@@ -14,32 +23,13 @@ The image above lists some of the resources and languages that have led me to th
 
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<h2 align=”center”>
+Day 1: 2018 January 05
+</h2>
+<img src="#" alt="">
+**Today’s Progress**: For day one I decided to see how far I could get through freecodecamp's Front End Development Certification in one hour.  I went from 101 lessons completed, to 117 lessons completed.  While this might not sound like much, I finished he JQuery section and **began the first real project:** Build a Tribute Page.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
+The last half-hour of my work was outlining what I wanted to do for my tribute page and 
+**Thoughts:** Write additional thoughts here.
+**Link to tweet:** [DaveBetts Day 1](https://twitter.com/biologydave/status/949491229703614464)
+**Link to work:** [TributePage](insertLinkHere)
