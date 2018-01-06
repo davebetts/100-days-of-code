@@ -34,15 +34,7 @@ Day 1: 2018 January 05
 
 Once I decided on my subject for the tribute, the outline and beginnings of my code came quickly.  The page isn't pretty (yet) so I'll save the actual code for later, but here's a peak at my upcoming tribute to the dwarf planet Pluto.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 <img src="https://github.com/davebetts/freecodecamp/blob/master/TributePage.JPG?raw=true" alt="Tibute Page Day 1">
-=======
-<img src="https://github.com/davebetts/freecodecamp/TributePage.JPG" alt="Tibute Page Day 1">
->>>>>>> 5d2bafe9f02d3a993cd169b552b2d53e57cc88e1
-=======
-<img src="https://github.com/davebetts/freecodecamp/TributePage.JPG" alt="Tibute Page Day 1">
->>>>>>> 5d2bafe9f02d3a993cd169b552b2d53e57cc88e1
 
 **Link to tweet:** [DaveBetts Day 1](https://twitter.com/biologydave/status/949491229703614464)
 
