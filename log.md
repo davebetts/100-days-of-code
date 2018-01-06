@@ -38,4 +38,4 @@ Once I decided on my subject for the tribute, the outline and beginnings of my c
 
 **Link to tweet:** [DaveBetts Day 1](https://twitter.com/biologydave/status/949491229703614464)
 
-**Link to work:** [Build a Tribute Page](https://codepen.io/davebetts/pen/WdXwZZ)
+**Link to work:** [Build a Tribute Page (CodePen Link)](https://codepen.io/davebetts/pen/WdXwZZ)
