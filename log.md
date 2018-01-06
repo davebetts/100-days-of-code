@@ -2,10 +2,10 @@
 100 Days of Code with Dave Betts
 </h2>
 <img src="https://github.com/davebetts/100-days-of-code/blob/master/100Hours.jpg" alt="">
-It's time to take up the challenge!  The quest is to convert my regular creation and use of code into a potential coding powerhouse.  Throughout the next 100 days, I hope to begin building the bridge between being capable and true expertise, and perhapse a little eloquence.
+It's time to take up the challenge!  The quest is to convert my current coding skills into a potential coding powerhouse.  Throughout the next 100 days, I hope to begin building the bridge between being capable and true expertise, and perhapse a little eloquence.
 
 
-The image above lists some of the resources and languages that have led me to this point.  Yes, this challenge is a beginning.  I will use the next 100 days to establish a foundation of knowledge and habits that will enahance my own work, and expand what I am able to offer to others.
+Several resources and languages (most of which are referenced in the image above) have led me to this point.  This is a change for a new beginning.  I will use the next 100 days to establish a foundation of knowledge and habits that will enahance my own work, and expand what I am able to offer to others.
 
 <h4 align="center">Initial Goals and Expectations</h4>
 I will work on two primary projects during my 100 Days of Code:
