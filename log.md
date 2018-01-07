@@ -22,7 +22,9 @@ Other existing coding projects may be included depending on what progress I can 
 
 **See some of my repos** [here](insertLinkHere)
 
-# 100 Days Of Code - Log
+<h1 align="center">
+100 Days Of Code - Log
+</h1>
 
 <h2 align=”center”>
 Day 1: 2018 January 05
