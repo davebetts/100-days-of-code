@@ -25,7 +25,10 @@ Other existing coding projects may be included depending on what progress I can 
 <h1 align="center">
 100 Days Of Code - Log
 </h1>
+<<<<<<< HEAD
 
+=======
+>>>>>>> b021a9d8f376a0360d49f8584c64b4f3e9f1c4a4
 <h2 align=”center”>
 Day 1: 2018 January 05
 </h2>
