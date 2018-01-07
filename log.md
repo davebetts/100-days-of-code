@@ -39,3 +39,14 @@ Once I decided on my subject for the tribute, the outline and beginnings of my c
 **Link to tweet:** [DaveBetts Day 1](https://twitter.com/biologydave/status/949491229703614464)
 
 **Link to work:** [Build a Tribute Page (CodePen Link)](https://codepen.io/davebetts/pen/WdXwZZ)
+
+
+<h2 align="center">
+Day 2: 2018 January 6
+</h2>
+	
+**Today’s Progress**: Trying to transform my outline of a tribute page into a well-designed web-page.  I also spent some of my time revising the mark-up language that I'm using to document my work within the challenge.
+
+**Thoughts:** I was only able to add links to external web-pages today.  The rest of my time working on my Tribute Page was spent looking through my solutions to previous lessons to find the ways through which I can create the design I've imagined in my head. Today did not feel as productive as Day 1, but that's why I'm doing the challenge.  Learning to create what I can imagine takes time, and experimentation.
+
+**Link to tweet:** [A quiet Day 2](https://twitter.com/biologydave/status/949887084172525568)
