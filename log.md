@@ -79,7 +79,9 @@ There is a chance that I did more than I *needed* to, but I was trying a few thi
 * Paragraph formatted text between list items
 * An Unordered list as a subsection of the ordered list
 
-The one thing I wanted to do that I didn't do was adjust the gray box around the image of Pluto to where I wanted.  I wanted to have a box highlighting the photo *and* the caption for the photo similar to the example for this assignment.  On a large screen, the left and right borders of the box are far from the photo, and on a smaller screen the photo is wider than the box.  Somehow the photo doesn't appear to be part of the decision on how big the surrounding box needs to be.  I'm not sure how to use .container-fluid appropriately.  Still more to learn.
+The one thing I wanted to do that I didn't do was adjust the gray box around the image of Pluto to where I wanted.  I wanted to have a box highlighting the photo *and* the caption for the photo similar to the example for this assignment.  On a large screen, the left and right borders of the box are far from the photo, and on a smaller screen the photo is wider than the box.  Somehow the photo doesn't appear to be part of the decision on how big the surrounding box needs to be.  I'm not sure how to use ".container-fluid" appropriately.
+
+Still more to learn.
 
 **Link to tweet:** [DaveBetts Day 4](https://twitter.com/biologydave/status/950562415271276544)
 
