@@ -77,9 +77,9 @@ Day 4: 2018 January 8
 There is a chance that I did more than I *needed* to, but I was trying a few things out.  In addition to the basic requirements I included a couple of additional links, including a link through the photo back to the page where the photo came from.  I also did a couple of things within an ordered list:
 * Bold font for the ordered list items
 * Paragraph formatted text between list items
-* Unordered lists as a subsection of the ordered list
+* An Unordered list as a subsection of the ordered list
 
-The one thing I wanted to do that I didn't do was adjust the gray box around the image of Pluto.  On a large screen, the boarders are far from the photo, and on a smaller screen the photo is wider than the box.  Somehow the photo doesn't appear to be part of the decision on how big the surrounding box needs to be.  I wanted to have a box highlighting the photo and the caption for the photo similar to the example for this assignment.  Still more to learn.
+The one thing I wanted to do that I didn't do was adjust the gray box around the image of Pluto to where I wanted.  I wanted to have a box highlighting the photo *and* the caption for the photo similar to the example for this assignment.  On a large screen, the left and right borders of the box are far from the photo, and on a smaller screen the photo is wider than the box.  Somehow the photo doesn't appear to be part of the decision on how big the surrounding box needs to be.  I'm not sure how to use .container-fluid appropriately.  Still more to learn.
 
 **Link to tweet:** [DaveBetts Day 4](https://twitter.com/biologydave/status/950562415271276544)
 
