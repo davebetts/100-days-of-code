@@ -52,3 +52,25 @@ Day 2: 2018 January 6
 **Thoughts:** I was only able to add links to external web-pages today.  The rest of my time working on my Tribute Page was spent looking through my solutions to previous lessons to find the ways through which I can create the design I've imagined in my head. Today did not feel as productive as Day 1, but that's why I'm doing the challenge.  Learning to create what I can imagine takes time, and experimentation.
 
 **Link to tweet:** [A quiet Day 2](https://twitter.com/biologydave/status/949887084172525568)
+
+
+<h2 align="center">
+Day 3: 2018 January 7
+</h2>
+	
+**Today’s Progress**: Further edits to my Tribute Page project for freecodecamp.
+
+**Thoughts:** I tested a few ideas for the format of the webpage, and some of the colors.  I think nearly all of the pieces are in place.
+
+**Link to tweet:** [Late Day 3 tweet](https://twitter.com/biologydave/status/950515677726629889)
+
+<h2 align="center">
+Day 4: 2018 January 8
+</h2>
+	
+**Today’s Progress**: Finished Tribute Page project for freecodecamp.
+
+**Thoughts:** More to come...
+
+**Link to tweet:** [DaveBetts Day 4](https://twitter.com/biologydave/status/950562415271276544)
+**Link to work:** [Final version of Tribute Page](https://codepen.io/davebetts/pen/WdXwZZ)
