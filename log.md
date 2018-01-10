@@ -86,3 +86,21 @@ Still more to learn.
 **Link to tweet:** [DaveBetts Day 4](https://twitter.com/biologydave/status/950562415271276544)
 
 **Link to work:** [Final version of Tribute Page](https://codepen.io/davebetts/pen/WdXwZZ)
+
+<h2 align="center">
+Day 5: 2018 January 9
+</h2>
+
+**Today’s Progress**: Personal Portolio Webpage - freecodecamp.org: Began outline and construction.
+
+**Thoughts:** When I came to the previous assignment, the Tribute Page, I took a peek and said to myself, "Okay... I'm pretty sure I know what I'll need to do."  I took a little longer than I wanted, but not bad.
+
+THEN I opened up the Personal Porfolio Webpage -- ack!
+
+This will definitely take a lot more trial and error.  This is going to take some time.  
+
+Let's be happy with some rough edges here in the begining.
+
+**Link to tweet:** [DaveBetts Day 5](insertLinkToTweet)
+
+**Link to work:** [Personal Portfolio Website](https://codepen.io/davebetts/pen/eyVoMp)
