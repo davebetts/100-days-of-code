@@ -101,6 +101,6 @@ This will definitely take a lot more trial and error.  This is going to take som
 
 Let's be happy with some rough edges here in the begining.
 
-**Link to tweet:** [DaveBetts Day 5](insertLinkToTweet)
+**Link to tweet:** [DaveBetts Day 5](https://twitter.com/biologydave/status/950980323977830400)
 
 **Link to work:** [Personal Portfolio Website](https://codepen.io/davebetts/pen/eyVoMp)
